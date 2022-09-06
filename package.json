@@ -1,0 +1,27 @@
+{
+  "name": "random-string-bhutta",
+  "version": "0.1.0",
+  "description": "A random string generator module for node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliBhuttaWeb/random-string-bhutta.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "\"random",
+    "string\"",
+    "bhutta"
+  ],
+  "author": "ali_bhutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliBhuttaWeb/random-string-bhutta/issues"
+  },
+  "homepage": "https://github.com/AliBhuttaWeb/random-string-bhutta#readme"
+}
